@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 
 
-## 프로젝트 경험
+## 📃프로젝트 경험
 ### 미니프로젝트
 개요: 사용자 참여형 미니게임 개발 프로젝트로, 게임 기획부터 구현까지 전 과정을 주도적으로 관리.
 역할: 프로젝트 기획 및 구현 전반에 걸친 코드 설계와 개발을 담당, 게임 메커니즘과 사용자 경험(UX) 설계에 중점을 둠.
