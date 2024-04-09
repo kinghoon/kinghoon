@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 
 
-## 📃프로젝트 경험
+## 📃프로젝트 경험 및 경력
 ### 미니프로젝트
 개요: 사용자 참여형 미니게임 개발 프로젝트로, 게임 기획부터 구현까지 전 과정을 주도적으로 관리.
 역할: 프로젝트 기획 및 구현 전반에 걸친 코드 설계와 개발을 담당, 게임 메커니즘과 사용자 경험(UX) 설계에 중점을 둠.
@@ -36,10 +36,15 @@
 개요: 광주 지역의 문화와 예술을 탐방할 수 있는 웹 기반 가이드 플랫폼 개발.
 역할: 날씨 API와 지도 API를 통합하여 사용자가 실시간 날씨 정보를 확인하고, 데이터베이스에 등록된 여행지를 지도상에서 쉽게 찾아볼 수 있도록 하는 인터페이스 개발에 기여.
 
-## 📫 연락하기
+### 기타 경력
 
 
-- Email: win3937@naver.com
+## 📚교육사항
+
+<img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" width="60"><img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" width="110"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="150">
+
+
+
 
 
 
