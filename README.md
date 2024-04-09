@@ -1,3 +1,7 @@
+![image](https://github.com/kinghoon/read-me/assets/104185588/fc09143f-a661-4eed-ab6e-1066734d407d)
+
+
+
 ## 👨‍💻지속적 성장을 추구하는 인재
 #### 프로젝트를 수행함에 있어서, 내 할 일에 최선을 다하는 동시에, 조용하지만 깊은 사고를 통해 창의적인 해결책을 찾아내는 것을 좋아합니다. 
 #### 내성적인 기질은 저를 더 꼼꼼하고 신중하게 만들며, 이는 저의 개발 작업에도 잘 반영됩니다.   
@@ -41,21 +45,23 @@
 #### 개요: 광주 지역의 문화와 예술을 탐방할 수 있는 웹 기반 가이드 플랫폼 개발.
 #### 역할: 날씨 API를 활용하여 사용자가 실시간 날씨 정보를 확인하고, 지도API를 활용하여 데이터베이스에 등록된 여행지를 지도상에서 쉽게 찾아볼 수 있도록 하는 인터페이스 개발에 기여.
 
-#### 느낀점 : 
+#### 느낀점 : DB연동과 API연동의 이해도가 올라갔다는 생각이 들고 프로젝트 규모가 커질수록 
 
 
-## 📚교육사항
-
-<img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" width="60"><img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" width="110"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="150">
 
 ## 🏷자격증
 
-### 정보처리기사 취득예정 7월!!!!!!
-### 철도안전관리자 / 교통안전공단
-### e스포츠 심판 3급 / 한국이스포츠협회
+#### 정보처리기사 취득예정 7월!!!!!!
+#### 철도안전관리자 / 교통안전공단
+#### e스포츠 심판 3급 / 한국이스포츠협회
 
-### 철도운전시스템학과 
-### 비전공자의 몸부림
+#### 정보처리기사,ADSP,빅데이터 분석기사 준비중
+
+## 📚교육사항
+### 송원대학교 철도운전시스템학과 
+### 송원철도아카데미
+### 스마트인재개발원
+
 
 
 
