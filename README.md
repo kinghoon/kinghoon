@@ -19,7 +19,8 @@
 
 ![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
-![그래프](https://github.com/kinghoon/read-me/assets/104185588/002b160d-a9dd-42d1-b775-e7f52801d930)
+
+![Uploading 그래프.png…]()
 
 ### 도구 및 기타
 
