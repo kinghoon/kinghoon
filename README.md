@@ -5,37 +5,6 @@
 
 ## 🛠 기술 스택
 
-# 기술 이름과 숙련도 재정의
-categories = ['JavaSpring', 'HTML/CSS', 'JavaScript', 'React.js', 'TypeScript.js', 'OracleSQL', 'MySQL']
-scores = [2, 2, 2, 1, 1, 2, 1]
-
-# 레이더 차트를 위한 데이터와 각도 준비
-labels = np.array(categories)
-num_vars = len(labels)
-
-# 각도 계산
-angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
-
-# 레이더 차트는 원형이므로 리스트의 끝에 시작점을 다시 추가
-scores += scores[:1]
-angles += angles[:1]
-
-fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
-
-# 그리기
-ax.fill(angles, scores, color='blue', alpha=0.25)
-ax.plot(angles, scores, color='blue', linewidth=2)
-
-# 레이블 추가
-ax.set_xticks(angles[:-1])
-ax.set_xticklabels(labels)
-
-# y축 범위 설정
-ax.set_yticklabels([])
-ax.set_ylim(0, 3)
-
-plt.show()
-
 
 ### 언어 및 프레임워크
 
