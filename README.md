@@ -20,7 +20,7 @@
 ![그래프](https://github.com/kinghoon/read-me/assets/104185588/0a7bfcbe-8561-4259-8723-a0e44558fe7c)
 
 
-### 도구 및 기타
+### 📌도구 및 기타
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
