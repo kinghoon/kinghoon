@@ -3,29 +3,12 @@
 내성적인 기질은 저를 더 꼼꼼하고 신중하게 만들며, 이는 저의 개발 작업에도 잘 반영됩니다. 조직의 목표 달성을 위해 끝까지 책임지는 태도와 상호 작용의 중요성을 인식하며, 
 팀과의 소통 능력 향상을 위해 지속적으로 노력하고 있습니다.
 
-## 기술 스택
+## 🛠 기술 스택
 
-### 백엔드
+### 언어 및 프레임워크
 
-- **Java Spring**: 백엔드 로직 구현에 사용됩니다.
-
-### 프론트엔드
-
-- **HTML/CSS**: 웹 페이지의 구조와 스타일을 정의합니다.
-- **JavaScript**: 동적인 웹 페이지 기능을 추가합니다.
-- **React.js**: 사용자 인터페이스를 구축하기 위한 JavaScript 라이브러리입니다.
-- **TypeScript**: JavaScript의 슈퍼셋으로, 정적 타입을 제공하여 개발을 간소화합니다.
-
-### 데이터베이스
-
-- **Oracle SQL**: 데이터 관리 및 조작을 위한 관계형 데이터베이스 시스템입니다.
-- **MySQL**: 오픈 소스의 관계형 데이터베이스 관리 시스템입니다.
-
-## 설치 및 실행 방법
-
-```bash
-# 의존성 설치
-npm install
-
-# 서버 실행
-npm start
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
