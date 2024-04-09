@@ -14,7 +14,7 @@
 
 ### 데이터베이스
 
-<img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white" width="100"><img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" width="100">
+<img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white" width="100"><img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" width="110">
 
 
 ![그래프](https://github.com/kinghoon/read-me/assets/104185588/0a7bfcbe-8561-4259-8723-a0e44558fe7c)
