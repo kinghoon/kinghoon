@@ -8,7 +8,7 @@
 
 ### 언어 및 프레임워크
 
-<img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" width="62"><img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" width="110"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="153"><img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white" width="105"><img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" width="150">
+<img src="https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=white" width="62" height="55"><img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=spring&logoColor=white" width="110" height="55"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="153"><img src="https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white" width="105"><img src="https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" width="150">
 
 
 
