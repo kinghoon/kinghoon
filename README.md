@@ -12,3 +12,23 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+
+
+### 데이터베이스
+
+![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 도구 및 기타
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
+
+## 📈 GitHub 통계
+
+![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 📫 연락하기
+
+
+- Email: win3937@naver.com
