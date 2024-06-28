@@ -49,6 +49,13 @@
 
 
 ### 📌도구 및 기타
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F61?style=for-the-badge&logo=librosa&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
@@ -82,7 +89,7 @@
 #### 내용: 쿠키마을을 악당들로부터 지키기 위해 악당을 물리치며 용사쿠키의 성장 과정을 겪고 다양한 진화를 하고 최종 악당을 물리치며 평화를 찾는 게임 
 
 #### 느낀점 : 처음에는 자바 한달 배우고서 이 프로젝트를 완성은 할 수 있을까라는 생각이 들었지만 하다보니 생각보다는 잘만들어졌다라는 생각이 들었다. 
-#### MVC패턴 활용이 처음엔 많이 미숙했지만 하면서 MVC패턴 활용이 늘었다.중간에 팀원과의소통이 불확실해서 다른 팀원이 했던 노력이 물거품이 됐다. 잘잘못을 따지기보단 그런 상황이 아쉬웠고 소통의 중요성을 깨달았다  
+#### MVC패턴 활용이 처음엔 많이 미숙했지만 하면서 MVC패턴 활용이 늘었다.중간에 팀원과의소통이 불확실해서 다른 팀원이 했던 노력의 결과가 퇴색 됐다. 잘잘못을 따지기보단 그런 상황이 아쉬웠고 소통의 중요성을 깨달았다  
 
 
 
