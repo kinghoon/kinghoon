@@ -74,7 +74,7 @@
 
 
 
-#### 핵심프로젝트
+## 핵심프로젝트
 ### 🛠📌도구 및 기타
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
