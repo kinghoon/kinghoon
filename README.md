@@ -59,7 +59,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
-### 실전프로젝트
+## 실전프로젝트
 #### 프로젝트 주제 : MFCC 와 CRNN 모델을 활용한 기침 소리 분석 서비스 
 #### 모델 기능 : 유저의 기침소리를 받아 분석하여 어떤 형태의 기침인지 예측하는 모델 (정상,천식,심부전,코로나)
 #### 개요 : 기침 소리를 녹음해서 어떤 기침과 관련된 질환의 진단을 받는 진단 보조 서비스 개발
@@ -74,8 +74,8 @@
 
 
 
-### 핵심프로젝트
-## 🛠📌도구 및 기타
+#### 핵심프로젝트
+### 🛠📌도구 및 기타
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Naver API](https://img.shields.io/badge/Naver%20API-03C75A?style=for-the-badge&logo=naver&logoColor=white)
