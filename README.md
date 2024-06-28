@@ -73,12 +73,15 @@
 #### CRNN에서 가장 높은 정확도 
 #### 과적합 방지하기 위해 Drop out, batch-nomarlization 등 기법 활용  
 
+
+
+### 핵심프로젝트
+## 🛠 사용 기술
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Naver API](https://img.shields.io/badge/Naver%20API-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-0072C6?style=for-the-badge&logo=openweather&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge&logo=mvc&logoColor=white)
-### 핵심프로젝트
 #### 프로젝트 주제: 광주 문화 예술 여행 가이드 대시보드 형 웹 개발
 #### 개요: 광주 지역의 문화와 예술을 탐방할 수 있는 웹 기반 가이드 플랫폼 개발.
 #### 역할: Spring 환경에서 mvc 패턴을 활용해 DB에 있는 장소 정보를 지도 API에 표시하고 지도에 장소 리스트 스크롤 화 및  날씨 API를 활용하여 사용자가 실시간 날씨 정보를 확인하는 등 인터페이스 개발.
