@@ -15,7 +15,7 @@ function App() {
     
     setList(res.data.list)
    })
-
+d
   
   return (
     <div className='container'>
