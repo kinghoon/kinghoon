@@ -67,10 +67,10 @@
 #### 느낀점 : 모델링에 대한 이해도와 데이터를 다루는 작업에 있어서 숙련도가 생긴 느낌 특히 음성 관련데이터 
 #### 개발 과정 : 음성데이터의 주파수를 벡터 값으로 출력해서 모델에 학습을 시켜보기도하고 mel spectrogram, mfcc와 같은 전처리를 활용해봄 
 #### MFCC 파라미터 값 설정을 해놓고 시퀀스 길이를 계산해서 입력 받은 오디오를 시퀀스길이에 맞춰 자른 후 모델에 데이터를 입력시켜서 학습 시킴 
-####  ML 모델 랜덤포레스트,decision tree,SVM,KNN 등 모델 사용 
-####  DL 모델 LSTM,CNN,RNN,CRNN 활용 
+####  ML 모델 랜덤포레스트,decision tree,SVM,KNN 등 
+####  DL 모델 LSTM,CNN,RNN,CRNN  
 #### CRNN에서 가장 높은 정확도 
-#### 과적합 방지하기 위해 Drop out, batch-nomarlization 등 기법 활용  
+#### 과적합 방지하기 위해 Drop out, batch-nomarlization 활용  
 
 ### 핵심프로젝트
 #### 프로젝트 주제: 광주 문화 예술 여행 가이드 대시보드 형 웹 개발
