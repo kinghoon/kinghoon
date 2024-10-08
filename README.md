@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white" width="100" height="35"><img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" width="105" height="35">
 
 
-![image](https://github.com/user-attachments/assets/b44103f8-1722-40fc-b28e-70d99a6c878d)
+![image](https://github.com/user-attachments/assets/5155bb6b-9820-424e-b106-db242971829d)
+
 
 
 
