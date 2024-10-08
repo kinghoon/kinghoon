@@ -22,7 +22,8 @@
 <img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=white" width="100" height="35"><img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white" width="105" height="35">
 
 
-![그래프](https://github.com/kinghoon/read-me/assets/104185588/0a7bfcbe-8561-4259-8723-a0e44558fe7c)
+![image](https://github.com/user-attachments/assets/b44103f8-1722-40fc-b28e-70d99a6c878d)
+
 
 
 ### 📌도구 및 기타
